@@ -1,5 +1,5 @@
 BlockSentry
-block sentry is a
+block sentry is a app
 Overview:
 A secure and transparent Document Storage and Verification System leveraging blockchain technology.
 This system allows users to securely upload, store, and verify documents, ensuring data integrity and authenticity.
